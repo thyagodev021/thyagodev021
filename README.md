@@ -77,22 +77,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNISUAM**, foca
 
 <div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Pizza Ninjas Programmer" />
-</div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thyagodev021&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagodev021&theme=dark&hide_border=true&layout=compact&locale=pt-br" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>💻 Pronto para transformar ideias em código! ✨</h3>
-</div>
