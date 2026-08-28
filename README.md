@@ -76,6 +76,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNISUAM**, foca
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcDF0c2pyaXg5NXo4ejBqd3AwbjVrbHFiYmlybjc3ODFucWZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYr/giphy.gif" width="320" alt="Coding GIF" />
+  <br/><br/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thyagodev021&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Estatísticas do GitHub"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagodev021&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Linguagens mais usadas"/>
 </div>
@@ -86,6 +88,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNISUAM**, foca
 
 Estou disponível para **projetos, colaborações em Open Source** e **oportunidades profissionais**.
 
-- 📧 **E-mail:** [thyagopaula22@gmail.com](mailto:thyagopaula22@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/thyagudev](https://www.linkedin.com/in/thyagudev/)
-- 🌐 **Portfólio:** [thyago-dev.netlify.app](https://thyago-dev.netlify.app)
+<br/>
+
+<div align="center">
+  <a href="mailto:thyagopaula22@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thyagudev/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://thyago-dev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Portfólio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
+  </a>
+</div>
